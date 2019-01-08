@@ -82,19 +82,19 @@ body {
   z-index: 1;
 }
 
-/*.eyebrowr,
+.eyebrowr,
 .eyebrowl {
-    height: 1vmin;
-    width: 5.5vmin;
-    border-radius: 100%;
-    border-top: 0.5vmin solid #331c17;
-    position: relative;
-    top: 11vmin;
-    left: 3.5vmin;
-    transform: rotate(-5deg);
+  height: 1vmin;
+  width: 5.5vmin;
+  border-radius: 100%;
+  border-top: 0.5vmin solid #331c17;
+  position: relative;
+  top: 11vmin;
+  left: 3.5vmin;
+  transform: rotate(-5deg);
 }
 
-.eyebrowr {
+/*.eyebrowr {
     left: 14.5vmin;
     top: 12.5vmin;
     transform: rotate(5deg);
