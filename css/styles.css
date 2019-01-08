@@ -201,17 +201,17 @@ body {
   bottom: 1.5vmin;
 }
 
-/*.shoulders {
-    height: 12vmin;
-    width: 25.5vmin;
-    background-color: black;
-    border-radius: 50%;
-    position: relative;
-    bottom: 2.5vmin;
-    z-index: -1;
+.shoulders {
+  height: 12vmin;
+  width: 25.5vmin;
+  background-color: black;
+  border-radius: 50%;
+  position: relative;
+  bottom: 2.5vmin;
+  z-index: -1;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
