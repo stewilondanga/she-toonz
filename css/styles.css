@@ -105,20 +105,20 @@ body {
   bottom: 4.5vmin;
 }
 
-/*.glassesr,
+.glassesr,
 .glassesl {
-    height: 6.5vmin;
-    width: 8vmin;
-    border: 0.2vmin solid black;
-    background-color: rgba(248, 248, 255, 0.438);
-    border-radius: 40vmin 40vmin 50vmin 50vmin;
-    position: relative;
-    top: 8.2vmin;
-    left: 2.7vmin;
-    z-index: 1;
+  height: 6.5vmin;
+  width: 8vmin;
+  border: 0.2vmin solid black;
+  background-color: rgba(248, 248, 255, 0.438);
+  border-radius: 40vmin 40vmin 50vmin 50vmin;
+  position: relative;
+  top: 8.2vmin;
+  left: 2.7vmin;
+  z-index: 1;
 }
 
-.glassesr {
+/*.glassesr {
     top: 15vmin;
     left: 12.5vmin;
 }
