@@ -182,16 +182,16 @@ body {
   right: 12.5%;
 }
 
-/*.neck,
+.neck,
 .neck__shadow {
-    width: 7vmin;
-    border-radius: 0 0 100% 100%;
-    background-color: #f8e3cc;
-    position: relative;
-    bottom: 0.2vmin;
+  width: 7vmin;
+  border-radius: 0 0 100% 100%;
+  background-color: #f8e3cc;
+  position: relative;
+  bottom: 0.2vmin;
 }
 
-.neck {
+/*.neck {
     height: 4vmin;
 }
 
