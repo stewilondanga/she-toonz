@@ -41,13 +41,13 @@ body {
   z-index: -1;
 }
 
-/*.hair {
-    display: flex;
-    justify-content: center;
-    position: relative;
+.hair {
+  display: flex;
+  justify-content: center;
+  position: relative;
 }
 
-.hair__r,
+/*.hair__r,
 .hair__l {
     height: 13.5vmin;
     width: 17vmin;
