@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,204 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+html,
+body,
+div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backdrop {
+    height: 70vmin;
+    width: 70vmin;
+    border: 0.7vmin solid #afa085;
+    border-radius: 100%;
+    background-color: #f3deb8;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+}
+
+.hair {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.hair__r,
+.hair__l {
+    height: 13.5vmin;
+    width: 17vmin;
+    background-color: #4b2821;
+    border-radius: 80vmin 0 80vmin 0;
+    border-bottom: 2vmin solid #331c17;
+    position: absolute;
+    top: -1vmin;
+    right: -0.5vmin;
+    z-index: 2;
+}
+
+.hair__l {
+    border-radius: 0 80vmin 0 80vmin;
+    left: -0.5vmin;
+}
+
+.hair__back {
+    height: 40vmin;
+    width: 31vmin;
+    background-color: #4b2821;
+    position: absolute;
+    border-radius: 45vmin 45vmin 20vmin 20vmin;
+    z-index: -1;
+}
+
+.head {
+    height: 32vmin;
+    width: 23.5vmin;
+    border-radius: 30% 30% 50% 50%;
+    background-color: #f8e3cc;
+    z-index: 1;
+}
+
+.eyebrowr,
+.eyebrowl {
+    height: 1vmin;
+    width: 5.5vmin;
+    border-radius: 100%;
+    border-top: 0.5vmin solid #331c17;
+    position: relative;
+    top: 11vmin;
+    left: 3.5vmin;
+    transform: rotate(-5deg);
+}
+
+.eyebrowr {
+    left: 14.5vmin;
+    top: 12.5vmin;
+    transform: rotate(5deg);
+}
+
+.glasses {
+    position: relative;
+    bottom: 4.5vmin;
+}
+
+.glassesr,
+.glassesl {
+    height: 6.5vmin;
+    width: 8vmin;
+    border: 0.2vmin solid black;
+    background-color: rgba(248, 248, 255, 0.438);
+    border-radius: 40vmin 40vmin 50vmin 50vmin;
+    position: relative;
+    top: 8.2vmin;
+    left: 2.7vmin;
+    z-index: 1;
+}
+
+.glassesr {
+    top: 15vmin;
+    left: 12.5vmin;
+}
+
+.glasses__mid {
+    height: 1vmin;
+    width: 2.1vmin;
+    border-radius: 100vmin;
+    border-top: 0.3vmin solid black;
+    position: relative;
+    left: 10.75vmin;
+    top: 2.7vmin;
+}
+
+.eye__right,
+.eye__left {
+    height: 2vmin;
+    width: 2vmin;
+    border-radius: 100%;
+    background-color: #613f43;
+    position: absolute;
+    right: 3.2vmin;
+    top: 1vmin;
+}
+
+.cheekr,
+.cheekl {
+    height: 4vmin;
+    width: 4.5vmin;
+    border-radius: 100vmin;
+    background-color: #eecdb8;
+    filter: blur(2px);
+    position: relative;
+    top: 0.5vmin;
+    left: 4vmin;
+}
+
+.cheekl {
+    top: -3.5vmin;
+    left: 15vmin;
+}
+
+.mouth {
+    height: 4.3vmin;
+    width: 8vmin;
+    border-radius: 0 0 100vmin 100vmin;
+    background-color: #414a53;
+    position: relative;
+    bottom: 2vmin;
+    left: 8vmin;
+}
+
+.mouth__tongue {
+    height: 3.3vmin;
+    width: 4.5vmin;
+    border-radius: 100% 0 100% 0;
+    background-color: #EE7D88;
+    transform: rotate(17deg);
+    position: absolute;
+    top: 24%;
+    right: 12.5%;
+}
+
+.neck,
+.neck__shadow {
+    width: 7vmin;
+    border-radius: 0 0 100% 100%;
+    background-color: #f8e3cc;
+    position: relative;
+    bottom: 0.2vmin;
+}
+
+.neck {
+    height: 4vmin;
+}
+
+.neck__shadow {
+    height: 2.8vmin;
+    background-color: #b39a94;
+    bottom: 1.5vmin;
+}
+
+.shoulders {
+    height: 12vmin;
+    width: 25.5vmin;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 2.5vmin;
+    z-index: -1;
 }
 
 .containers {
