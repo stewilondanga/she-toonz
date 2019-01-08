@@ -156,12 +156,12 @@ body {
   left: 4vmin;
 }
 
-/*.cheekl {
-    top: -3.5vmin;
-    left: 15vmin;
+.cheekl {
+  top: -3.5vmin;
+  left: 15vmin;
 }
 
-.mouth {
+/*.mouth {
     height: 4.3vmin;
     width: 8vmin;
     border-radius: 0 0 100vmin 100vmin;
