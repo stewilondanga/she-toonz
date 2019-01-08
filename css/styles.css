@@ -6,6 +6,13 @@ div {
   margin: 0;
 }
 
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -30,12 +37,6 @@ div {
 }
 
 
-body {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .backdrop {
     height: 70vmin;
