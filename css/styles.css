@@ -60,12 +60,12 @@ body {
   z-index: 2;
 }
 
-/*.hair__l {
-    border-radius: 0 80vmin 0 80vmin;
-    left: -0.5vmin;
+.hair__l {
+  border-radius: 0 80vmin 0 80vmin;
+  left: -0.5vmin;
 }
 
-.hair__back {
+/*.hair__back {
     height: 40vmin;
     width: 31vmin;
     background-color: #4b2821;
