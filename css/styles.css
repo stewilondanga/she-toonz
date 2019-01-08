@@ -47,20 +47,20 @@ body {
   position: relative;
 }
 
-/*.hair__r,
+.hair__r,
 .hair__l {
-    height: 13.5vmin;
-    width: 17vmin;
-    background-color: #4b2821;
-    border-radius: 80vmin 0 80vmin 0;
-    border-bottom: 2vmin solid #331c17;
-    position: absolute;
-    top: -1vmin;
-    right: -0.5vmin;
-    z-index: 2;
+  height: 13.5vmin;
+  width: 17vmin;
+  background-color: #4b2821;
+  border-radius: 80vmin 0 80vmin 0;
+  border-bottom: 2vmin solid #331c17;
+  position: absolute;
+  top: -1vmin;
+  right: -0.5vmin;
+  z-index: 2;
 }
 
-.hair__l {
+/*.hair__l {
     border-radius: 0 80vmin 0 80vmin;
     left: -0.5vmin;
 }
