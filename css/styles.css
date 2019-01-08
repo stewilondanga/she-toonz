@@ -171,18 +171,18 @@ body {
   left: 8vmin;
 }
 
-/*.mouth__tongue {
-    height: 3.3vmin;
-    width: 4.5vmin;
-    border-radius: 100% 0 100% 0;
-    background-color: #EE7D88;
-    transform: rotate(17deg);
-    position: absolute;
-    top: 24%;
-    right: 12.5%;
+.mouth__tongue {
+  height: 3.3vmin;
+  width: 4.5vmin;
+  border-radius: 100% 0 100% 0;
+  background-color: #EE7D88;
+  transform: rotate(17deg);
+  position: absolute;
+  top: 24%;
+  right: 12.5%;
 }
 
-.neck,
+/*.neck,
 .neck__shadow {
     width: 7vmin;
     border-radius: 0 0 100% 100%;
