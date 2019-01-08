@@ -144,19 +144,19 @@ body {
   top: 1vmin;
 }
 
-/*.cheekr,
+.cheekr,
 .cheekl {
-    height: 4vmin;
-    width: 4.5vmin;
-    border-radius: 100vmin;
-    background-color: #eecdb8;
-    filter: blur(2px);
-    position: relative;
-    top: 0.5vmin;
-    left: 4vmin;
+  height: 4vmin;
+  width: 4.5vmin;
+  border-radius: 100vmin;
+  background-color: #eecdb8;
+  filter: blur(2px);
+  position: relative;
+  top: 0.5vmin;
+  left: 4vmin;
 }
 
-.cheekl {
+/*.cheekl {
     top: -3.5vmin;
     left: 15vmin;
 }
