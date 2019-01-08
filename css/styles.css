@@ -118,12 +118,12 @@ body {
   z-index: 1;
 }
 
-/*.glassesr {
-    top: 15vmin;
-    left: 12.5vmin;
+.glassesr {
+  top: 15vmin;
+  left: 12.5vmin;
 }
 
-.glasses__mid {
+/*.glasses__mid {
     height: 1vmin;
     width: 2.1vmin;
     border-radius: 100vmin;
