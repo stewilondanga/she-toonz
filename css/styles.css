@@ -74,15 +74,15 @@ body {
   z-index: -1;
 }
 
-/*.head {
-    height: 32vmin;
-    width: 23.5vmin;
-    border-radius: 30% 30% 50% 50%;
-    background-color: #f8e3cc;
-    z-index: 1;
+.head {
+  height: 32vmin;
+  width: 23.5vmin;
+  border-radius: 30% 30% 50% 50%;
+  background-color: #f8e3cc;
+  z-index: 1;
 }
 
-.eyebrowr,
+/*.eyebrowr,
 .eyebrowl {
     height: 1vmin;
     width: 5.5vmin;
