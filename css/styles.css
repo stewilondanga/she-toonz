@@ -191,11 +191,11 @@ body {
   bottom: 0.2vmin;
 }
 
-/*.neck {
-    height: 4vmin;
+.neck {
+  height: 4vmin;
 }
 
-.neck__shadow {
+/*.neck__shadow {
     height: 2.8vmin;
     background-color: #b39a94;
     bottom: 1.5vmin;
