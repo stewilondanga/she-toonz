@@ -161,17 +161,17 @@ body {
   left: 15vmin;
 }
 
-/*.mouth {
-    height: 4.3vmin;
-    width: 8vmin;
-    border-radius: 0 0 100vmin 100vmin;
-    background-color: #414a53;
-    position: relative;
-    bottom: 2vmin;
-    left: 8vmin;
+.mouth {
+  height: 4.3vmin;
+  width: 8vmin;
+  border-radius: 0 0 100vmin 100vmin;
+  background-color: #414a53;
+  position: relative;
+  bottom: 2vmin;
+  left: 8vmin;
 }
 
-.mouth__tongue {
+/*.mouth__tongue {
     height: 3.3vmin;
     width: 4.5vmin;
     border-radius: 100% 0 100% 0;
