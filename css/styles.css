@@ -133,18 +133,18 @@ body {
   top: 2.7vmin;
 }
 
-/*.eye__right,
+.eye__right,
 .eye__left {
-    height: 2vmin;
-    width: 2vmin;
-    border-radius: 100%;
-    background-color: #613f43;
-    position: absolute;
-    right: 3.2vmin;
-    top: 1vmin;
+  height: 2vmin;
+  width: 2vmin;
+  border-radius: 100%;
+  background-color: #613f43;
+  position: absolute;
+  right: 3.2vmin;
+  top: 1vmin;
 }
 
-.cheekr,
+/*.cheekr,
 .cheekl {
     height: 4vmin;
     width: 4.5vmin;
