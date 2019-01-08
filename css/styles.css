@@ -94,13 +94,13 @@ body {
   transform: rotate(-5deg);
 }
 
-/*.eyebrowr {
-    left: 14.5vmin;
-    top: 12.5vmin;
-    transform: rotate(5deg);
+.eyebrowr {
+  left: 14.5vmin;
+  top: 12.5vmin;
+  transform: rotate(5deg);
 }
 
-.glasses {
+/*.glasses {
     position: relative;
     bottom: 4.5vmin;
 }
