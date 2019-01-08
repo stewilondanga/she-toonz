@@ -28,22 +28,20 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .backdrop {
-    height: 70vmin;
-    width: 70vmin;
-    border: 0.7vmin solid #afa085;
-    border-radius: 100%;
-    background-color: #f3deb8;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-    justify-content: center;
-    z-index: -1;
+  height: 70vmin;
+  width: 70vmin;
+  border: 0.7vmin solid #afa085;
+  border-radius: 100%;
+  background-color: #f3deb8;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
 }
 
-.hair {
+/*.hair {
     display: flex;
     justify-content: center;
     position: relative;
