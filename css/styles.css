@@ -65,16 +65,16 @@ body {
   left: -0.5vmin;
 }
 
-/*.hair__back {
-    height: 40vmin;
-    width: 31vmin;
-    background-color: #4b2821;
-    position: absolute;
-    border-radius: 45vmin 45vmin 20vmin 20vmin;
-    z-index: -1;
+.hair__back {
+  height: 40vmin;
+  width: 31vmin;
+  background-color: #4b2821;
+  position: absolute;
+  border-radius: 45vmin 45vmin 20vmin 20vmin;
+  z-index: -1;
 }
 
-.head {
+/*.head {
     height: 32vmin;
     width: 23.5vmin;
     border-radius: 30% 30% 50% 50%;
